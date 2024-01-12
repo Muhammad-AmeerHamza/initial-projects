@@ -1,0 +1,148 @@
+    .button {
+        background-color: rgb(73, 225, 162);
+        height: 3.5em;
+        width: 10.5em;
+        border-radius: 3em;
+        font-size: 0.5em;
+        color: black;
+        border: none;
+        margin-left: 21%;
+    }
+
+    .parent2 {
+        width: 100%;
+        height: 54vh;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 22%;
+    }
+
+    .parent2>div {
+        margin: 2%;
+        width: 10em;
+        height: 10em;
+        text-align: center;
+    }
+
+    .button1 {
+        background-color: rgb(26, 3, 81);
+        height: 3.5em;
+        width: 10.5em;
+        border-radius: 3em;
+        font-size: 0.5em;
+        color: white;
+        border: none;
+
+    }
+
+    .parent3 {
+        background-color: rgb(187, 187, 187);
+        width: 100%;
+        height: 46vh;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .parent3>div {
+        margin: 1%;
+        width: 20em;
+        height: 20em;
+        margin-top: 8vh;
+    }
+
+    .img1 {
+        width: 18em;
+        height: 11em;
+    }
+
+    .parent4 {
+        background-color: rgb(73, 225, 162);
+        width: 100%;
+        height: 41vh;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .parent4>div {
+        margin: 1%;
+        width: 20em;
+        height: 20em;
+        margin-top: 8vh;
+    }
+
+    .parent5 {
+        background-color: white;
+        width: 100%;
+        height: 64vh;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .parent5>div {
+        margin: 1%;
+        width: 16em;
+        height: 20em;
+        margin-top: 4vh;
+        text-align: center;
+    }
+
+    .button2 {
+        background-color: white;
+        height: 3em;
+        width: 8em;
+        border-radius: 3em;
+        font-size: 0.7em;
+        color: rgb(26, 3, 81);
+        border-color: rgb(18, 1, 58);
+        margin-top: 1.5em;
+    }
+
+    .parent6 {
+        background-color: rgb(187, 187, 187);
+        width: 100%;
+        height: 23vh;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .parent6>div {
+        margin: 4%;
+        width: 2em;
+        height: 2em;
+        margin-top: 8vh;
+    }
+
+    .img2 {
+        width: 6em;
+        height: 3em;
+    }
+
+    .parent7 {
+        background-image: url(/img/contact-bk.jpg);
+        width: 100%;
+        height: 50vh;
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+
+    .parent7>div {
+        margin: 4%;
+        width: 8em;
+        height: 1em;
+        margin-top: 8vh;
+        color: white;
+    }
+    
+    form{
+        color: rgb(73, 225, 162);
+        margin: 0.3em;
+        
+    }
+    input,textarea{
+        border: 1px solid rgb(73, 225, 162);
+        background: none;
+        border-radius: 0.2em;
+        margin: 0.3em;
+    }
+    
